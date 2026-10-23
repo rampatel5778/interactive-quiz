@@ -71,3 +71,5 @@ while True:
     if play_again != "yes":
         print("Thank you for playing!")
         break
+
+# Version 1: First Git checkpoint created
